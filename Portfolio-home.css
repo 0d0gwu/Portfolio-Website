@@ -31,6 +31,7 @@ body {
 .nav-list{
     margin-left: 2em;
   }
+
 .nav-list .items .list-item {
   margin: 0.5em;
 }
@@ -42,7 +43,7 @@ body {
 
 a { 
       text-decoration: none;  
-      margin: 5px;   
+    /*  margin: 5px; */  
       color: white;
 } 
 
@@ -77,7 +78,7 @@ li img {
   line-height: 23px;
   outline: none;
   padding: .75rem;
-  margin-right: 0.2em;
+ /* margin-right: 0.2em; */
   text-decoration: none;
   transition: all 235ms ease-in-out;
   border-bottom-left-radius: 15px 255px;
