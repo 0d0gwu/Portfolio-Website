@@ -30,17 +30,12 @@ body {
       font-size: 1.4em;
     }  
 
-.nav-list{
-  margin-right:2em;
-  padding: 0;
-  }
-
 .nav-list .items .list-item {
   margin: 0.5em;
 }
 
 .nav-btn {
-  margin-right: -10em;
+  margin-right: -20em;
   border:0;
 }
 
