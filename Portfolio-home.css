@@ -33,6 +33,10 @@ body {
 .nav-list .items .list-item {
   margin: 0.5em;
 }
+.nav-list {
+  margin-left: 4em;
+  padding: 0;
+}
 
 .nav-btn {
   margin-right: -20em;
