@@ -1,5 +1,3 @@
-
-
 *, html {
   margin: 0;
   border:0;
@@ -33,11 +31,11 @@ body {
 .nav-list{
     margin-left: 2em;
   }
+.items {
+	margin-right: 10em;
+}
 .nav-list .items .list-item {
   margin: 0.5em;
-}
-.nav-btn {
-  margin-right: 20em;
 }
 
 .items{  
@@ -45,7 +43,7 @@ body {
       display: flex;
 } 
 
-a { 
+.list-item a { 
       text-decoration: none;  
       margin: 5px;   
       color: white;
